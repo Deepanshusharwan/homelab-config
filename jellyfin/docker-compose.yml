@@ -10,6 +10,9 @@ services:
       - /home/deepanshu/homelab_setups/jellyfin/config:/config
       - /home/deepanshu/homelab_setups/jellyfin/cache:/cache
       - type: bind
+        source: /home/deepanshu/Videos/Shows/
+        target: /Shows
+      - type: bind
         source: /home/deepanshu/Videos/Movies/
         target: /Movies
       - type: bind

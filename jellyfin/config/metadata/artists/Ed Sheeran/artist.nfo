@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-10-25 21:18:34</dateadded>
+  <title>Ed Sheeran</title>
+  <runtime>4</runtime>
+  <country />
+  <genre>Mr-Jat.In</genre>
+  <studio />
+  <musicbrainzartistid>b8a7c51f-362c-4dcb-a259-bc6e0095f0a6</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Ed Sheeran/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Ed Sheeran/backdrop.jpg</fanart>
+  </art>
+</artist>

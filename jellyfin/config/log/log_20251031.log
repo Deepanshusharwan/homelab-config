@@ -1,0 +1,9 @@
+[2025-10-31 07:27:14.796 +00:00] [INF] [118] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
+[2025-10-31 07:27:14.841 +00:00] [INF] [118] Jellyfin.Database.Providers.Sqlite.SqliteDatabaseProvider: jellyfin.db optimized successfully!
+[2025-10-31 07:27:14.841 +00:00] [INF] [118] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 0 seconds
+[2025-10-31 10:50:55.674 +00:00] [INF] [62] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "SNOWPIERCER__THE_COMPLETE_FIRST_SEASON.Title7" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2025-10-31 10:50:55.674 +00:00] [INF] [62] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "SNOWPIERCER__THE_COMPLETE_FIRST_SEASON.Title8" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2025-10-31 10:50:55.700 +00:00] [INF] [62] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "SNOWPIERCER__THE_COMPLETE_FIRST_SEASON.Title11" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2025-10-31 10:50:55.701 +00:00] [INF] [62] Emby.Server.Implementations.Chapters.ChapterManager: Skipping chapter image extraction for "SNOWPIERCER__THE_COMPLETE_FIRST_SEASON.Title12" as the average chapter duration 0 was lower than the minimum threshold 10000000
+[2025-10-31 10:50:55.701 +00:00] [INF] [62] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 0 seconds
+[2025-10-31 10:50:56.670 +00:00] [INF] [62] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2025-11-01 02:00:00.000 +00:00, which is 15:09:03.3297584 from now.

@@ -1,0 +1,16 @@
+{
+  "category": "Music",
+  "changelog": "- Jellyfin 10.11 support (#15) @crobibero",
+  "description": "",
+  "guid": "4ce89c27-d3a1-4e4b-8f5f-4bd9191c857e",
+  "name": "Discogs",
+  "overview": "Get music metadata from Discogs",
+  "owner": "jellyfin",
+  "targetAbi": "10.11.0.0",
+  "timestamp": "2025-10-20T01:26:27.0000000Z",
+  "version": "2.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/plugins/Discogs_2.0.0.0/jellyfin-plugin-discogs.png",
+  "assemblies": []
+}
