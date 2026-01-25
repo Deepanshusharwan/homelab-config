@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:32</dateadded>
+  <title>Bad Bunny</title>
+  <runtime>6</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>89aa5ecb-59ad-46f5-b3eb-2d424e941f19</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Bad Bunny/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Bad Bunny/backdrop.jpg</fanart>
+  </art>
+</artist>

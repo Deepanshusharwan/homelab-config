@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Hozier</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>b4691384-50c3-4afd-9988-51d3ec5db65d</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Hozier/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Hozier/backdrop.jpg</fanart>
+  </art>
+</artist>

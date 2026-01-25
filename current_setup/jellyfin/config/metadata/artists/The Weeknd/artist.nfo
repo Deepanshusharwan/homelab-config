@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-07 19:28:21</dateadded>
+  <title>The Weeknd</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>c8b03190-306c-4120-bb0b-6f2ebfc06ea9</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/The Weeknd/folder.jpg</poster>
+    <fanart>/config/metadata/artists/The Weeknd/backdrop.jpg</fanart>
+  </art>
+</artist>

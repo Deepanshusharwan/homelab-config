@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:32</dateadded>
+  <title>Alan Walker</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>b0e4bc50-3062-4d31-afad-def6a6b7a8e9</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Alan Walker/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Alan Walker/backdrop.jpg</fanart>
+  </art>
+</artist>

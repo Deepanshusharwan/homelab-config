@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:54:54</dateadded>
+  <title>Doechii</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>9f75277c-b283-4846-ac8c-f932255cd0ac</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Doechii/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Doechii/backdrop.jpg</fanart>
+  </art>
+</artist>

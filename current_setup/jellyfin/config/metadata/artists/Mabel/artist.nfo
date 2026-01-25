@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>Mabel</title>
+  <runtime>6</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>3a592f93-5c88-4b7c-a10f-8eb3dcbadde7</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Mabel/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Mabel/backdrop.jpg</fanart>
+  </art>
+</artist>

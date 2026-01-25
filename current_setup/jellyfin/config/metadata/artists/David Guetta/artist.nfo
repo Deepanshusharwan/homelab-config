@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>David Guetta</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>302bd7b9-d012-4360-897a-93b00c855680</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/David Guetta/folder.jpg</poster>
+    <fanart>/config/metadata/artists/David Guetta/backdrop.jpg</fanart>
+  </art>
+</artist>

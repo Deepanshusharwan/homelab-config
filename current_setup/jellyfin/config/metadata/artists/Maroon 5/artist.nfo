@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:03</dateadded>
+  <title>Maroon 5</title>
+  <runtime>11</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>0ab49580-c84f-44d4-875f-d83760ea2cfe</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Maroon 5/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Maroon 5/backdrop.jpg</fanart>
+  </art>
+</artist>

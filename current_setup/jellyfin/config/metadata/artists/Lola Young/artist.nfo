@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-12 15:36:17</dateadded>
+  <title>Lola Young</title>
+  <runtime>5</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>43b896c5-5652-4b04-bde1-2e4224bc99b3</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Lola Young/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Lola Young/backdrop.jpg</fanart>
+  </art>
+</artist>

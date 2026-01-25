@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:37:07</dateadded>
+  <title>OneRepublic</title>
+  <runtime>10</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>c33c2065-b1c3-4406-b066-d33a9e2ea71a</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/OneRepublic/folder.jpg</poster>
+    <fanart>/config/metadata/artists/OneRepublic/backdrop.jpg</fanart>
+  </art>
+</artist>

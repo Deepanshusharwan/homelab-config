@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>Imagine Dragons</title>
+  <runtime>16</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>012151a8-0f9a-44c9-997f-ebd68b5389f9</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Imagine Dragons/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Imagine Dragons/backdrop.jpg</fanart>
+  </art>
+</artist>

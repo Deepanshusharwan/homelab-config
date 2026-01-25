@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:03</dateadded>
+  <title>Natasha Bedingfield</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>8b477559-946e-4ef2-9fe1-446cff8fdd79</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Natasha Bedingfield/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Natasha Bedingfield/backdrop.jpg</fanart>
+  </art>
+</artist>

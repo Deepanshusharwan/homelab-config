@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Modern Talking</title>
+  <runtime>7</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>98913495-8867-43b3-aa8d-db88ee4d4cdc</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Modern Talking/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Modern Talking/backdrop.jpg</fanart>
+  </art>
+</artist>

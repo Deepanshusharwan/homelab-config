@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:37:07</dateadded>
+  <title>Billie Eilish</title>
+  <runtime>7</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>f4abc0b5-3f7a-4eff-8f78-ac078dbce533</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Billie Eilish/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Billie Eilish/backdrop.jpg</fanart>
+  </art>
+</artist>

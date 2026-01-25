@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>Boney M.</title>
+  <runtime>6</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>5403bf6e-bc1d-4e62-b31f-926a2bf66a14</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Boney M/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Boney M/backdrop.jpg</fanart>
+  </art>
+</artist>

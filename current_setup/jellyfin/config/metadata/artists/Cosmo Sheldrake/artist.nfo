@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:32</dateadded>
+  <title>Cosmo Sheldrake</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>fda925d2-7af4-4b67-b8c1-692292c9cb18</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Cosmo Sheldrake/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Cosmo Sheldrake/backdrop.jpg</fanart>
+  </art>
+</artist>

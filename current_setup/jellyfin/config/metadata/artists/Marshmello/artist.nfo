@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Marshmello</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>301b45a4-b8b9-410e-8344-4b4eaf96691a</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Marshmello/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Marshmello/backdrop.jpg</fanart>
+  </art>
+</artist>

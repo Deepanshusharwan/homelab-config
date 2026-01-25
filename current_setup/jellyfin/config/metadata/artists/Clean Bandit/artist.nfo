@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Clean Bandit</title>
+  <runtime>7</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>dacc2d64-7e59-42a8-87a9-10c53919aff2</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Clean Bandit/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Clean Bandit/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Ace Of Base</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>d4a1404d-e00c-4bac-b3ba-e3557f6468d6</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Ace Of Base/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Ace Of Base/backdrop.jpg</fanart>
+  </art>
+</artist>

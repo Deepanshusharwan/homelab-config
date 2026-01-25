@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-07 19:28:21</dateadded>
+  <title>Chris Brown</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>c234fa42-e6a6-443e-937e-2f4b073538a3</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Chris Brown/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Chris Brown/backdrop.jpg</fanart>
+  </art>
+</artist>

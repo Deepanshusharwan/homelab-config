@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:03</dateadded>
+  <title>Shawn Mendes</title>
+  <runtime>13</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>b7d92248-97e3-4450-8057-6fe06738f735</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Shawn Mendes/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Shawn Mendes/backdrop.jpg</fanart>
+  </art>
+</artist>

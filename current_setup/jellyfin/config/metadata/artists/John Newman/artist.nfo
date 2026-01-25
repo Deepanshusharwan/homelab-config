@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:54:54</dateadded>
+  <title>John Newman</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>589ef702-7f3a-4a1c-8f2c-4727005cfc0e</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/John Newman/folder.jpg</poster>
+    <fanart>/config/metadata/artists/John Newman/backdrop.jpg</fanart>
+  </art>
+</artist>

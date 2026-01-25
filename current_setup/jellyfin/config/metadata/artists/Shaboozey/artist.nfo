@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Shaboozey</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>0b427dad-1ee5-48f1-aa4b-026680a3338e</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Shaboozey/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Shaboozey/backdrop.jpg</fanart>
+  </art>
+</artist>

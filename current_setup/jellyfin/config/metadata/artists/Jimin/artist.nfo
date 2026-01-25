@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:54:54</dateadded>
+  <title>Jimin</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>d2582c77-6b0f-4b2f-802f-8f3cad1a5fec</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Jimin/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Jimin/backdrop.jpg</fanart>
+  </art>
+</artist>

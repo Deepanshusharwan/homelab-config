@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>Oliver Tree</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>1fa3bded-908f-47be-9784-3c9ef850682b</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Oliver Tree/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Oliver Tree/backdrop.jpg</fanart>
+  </art>
+</artist>

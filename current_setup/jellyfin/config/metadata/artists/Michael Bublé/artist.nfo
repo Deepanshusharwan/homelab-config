@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-07 13:44:08</dateadded>
+  <title>Michael Bublé</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>611700cf-27f0-4dc9-ae80-c513a767853e</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Michael Bublé/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Michael Bublé/backdrop.jpg</fanart>
+  </art>
+</artist>

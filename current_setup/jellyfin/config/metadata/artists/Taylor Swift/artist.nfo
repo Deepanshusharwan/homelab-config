@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Taylor Swift</title>
+  <runtime>7</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>20244d07-534f-4eff-b4d4-930878889970</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Taylor Swift/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Taylor Swift/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Lady Gaga</title>
+  <runtime>12</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>650e7db6-b795-4eb5-a702-5ea2fc46c848</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Lady Gaga/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Lady Gaga/backdrop.jpg</fanart>
+  </art>
+</artist>

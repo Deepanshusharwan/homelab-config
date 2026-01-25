@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-07 13:43:55</dateadded>
+  <title>Ben E. King</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>837555ba-012e-45f1-9a9c-9628da13ee54</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Ben E. King/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Ben E. King/backdrop.jpg</fanart>
+  </art>
+</artist>

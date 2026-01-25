@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-12 15:32:54</dateadded>
+  <title>Bee Gees</title>
+  <runtime>5</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Bee Gees/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Bee Gees/backdrop.jpg</fanart>
+  </art>
+</artist>

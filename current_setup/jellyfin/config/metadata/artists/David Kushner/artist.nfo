@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-09 17:46:08</dateadded>
+  <title>David Kushner</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>684e2403-8dc3-468c-8d4f-c1ee01fb6cd6</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/David Kushner/folder.jpg</poster>
+    <fanart>/config/metadata/artists/David Kushner/backdrop.jpg</fanart>
+  </art>
+</artist>

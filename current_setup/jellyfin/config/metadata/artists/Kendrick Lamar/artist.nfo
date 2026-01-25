@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Kendrick Lamar</title>
+  <runtime>8</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>381086ea-f511-4aba-bdf9-71c753dc5077</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Kendrick Lamar/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Kendrick Lamar/backdrop.jpg</fanart>
+  </art>
+</artist>

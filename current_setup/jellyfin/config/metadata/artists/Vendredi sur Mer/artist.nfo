@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-12 15:39:54</dateadded>
+  <title>Vendredi sur Mer</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>2c430199-2dbe-42b1-8dd4-45b85a919136</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Vendredi sur Mer/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Vendredi sur Mer/backdrop.jpg</fanart>
+  </art>
+</artist>

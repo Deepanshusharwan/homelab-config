@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:54:54</dateadded>
+  <title>Macklemore</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>b6d7ec94-830c-44dd-b699-ce66556b7e55</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Macklemore/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Macklemore/backdrop.jpg</fanart>
+  </art>
+</artist>

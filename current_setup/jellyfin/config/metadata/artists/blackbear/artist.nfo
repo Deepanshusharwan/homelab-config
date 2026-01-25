@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-09 17:46:08</dateadded>
+  <title>blackbear</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>e07d9474-00ea-4460-ac27-88b46b3d976e</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/blackbear/folder.jpg</poster>
+    <fanart>/config/metadata/artists/blackbear/backdrop.jpg</fanart>
+  </art>
+</artist>

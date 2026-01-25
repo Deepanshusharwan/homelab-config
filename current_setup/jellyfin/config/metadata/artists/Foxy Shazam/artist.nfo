@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-12-25 15:06:50</dateadded>
+  <title>Foxy Shazam</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>919e82ff-f3f3-4b05-a7e9-c28d1c7ac981</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Foxy Shazam/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Foxy Shazam/backdrop.jpg</fanart>
+  </art>
+</artist>

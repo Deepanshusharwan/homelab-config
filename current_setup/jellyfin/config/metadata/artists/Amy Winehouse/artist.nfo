@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:54:54</dateadded>
+  <title>Amy Winehouse</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Amy Winehouse/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Amy Winehouse/backdrop.jpg</fanart>
+  </art>
+</artist>

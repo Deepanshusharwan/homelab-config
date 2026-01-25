@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-12 15:39:08</dateadded>
+  <title>Tate McRae</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>f9133869-f87c-459c-9aa7-2f176cda7e06</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Tate McRae/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Tate McRae/backdrop.jpg</fanart>
+  </art>
+</artist>

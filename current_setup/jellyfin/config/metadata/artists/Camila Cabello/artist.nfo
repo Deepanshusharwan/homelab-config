@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Camila Cabello</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>01b8b5bf-06cb-45da-85fb-61ada72fcd69</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Camila Cabello/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Camila Cabello/backdrop.jpg</fanart>
+  </art>
+</artist>

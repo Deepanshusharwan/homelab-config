@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Benson Boone</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>62b914a7-d775-4bb4-bb5e-d46e7df115b5</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Benson Boone/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Benson Boone/backdrop.jpg</fanart>
+  </art>
+</artist>

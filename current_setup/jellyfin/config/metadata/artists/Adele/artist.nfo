@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-09 17:46:08</dateadded>
+  <title>Adele</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Adele/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Adele/backdrop.jpg</fanart>
+  </art>
+</artist>

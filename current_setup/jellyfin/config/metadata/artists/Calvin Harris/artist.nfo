@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>Calvin Harris</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>8dd98bdc-80ec-4e93-8509-2f46bafc09a7</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Calvin Harris/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Calvin Harris/backdrop.jpg</fanart>
+  </art>
+</artist>

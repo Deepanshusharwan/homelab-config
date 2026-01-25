@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-09 17:46:08</dateadded>
+  <title>Kali Uchis</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>d0c7656d-8169-4f77-9dbe-b8f24e40105d</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Kali Uchis/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Kali Uchis/backdrop.jpg</fanart>
+  </art>
+</artist>

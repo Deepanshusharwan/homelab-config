@@ -1,0 +1,16 @@
+{
+  "category": "Music",
+  "changelog": "- Jellyfin 10.11 support (#29) @crobibero\n- Update settings page (#30) @thornbill\n\n### Bug Fixes ###\n- Restore manual search for new items (#27) @abrain",
+  "description": "",
+  "guid": "a4967b35-15b3-46f0-bc7e-0b7d90623a85",
+  "name": "IMVDb",
+  "overview": "Get Music Video metadata from IMVDb",
+  "owner": "jellyfin",
+  "targetAbi": "10.11.0.0",
+  "timestamp": "2025-10-20T01:27:01.0000000Z",
+  "version": "5.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/plugins/IMVDb_5.0.0.0/jellyfin-plugin-imvdb.png",
+  "assemblies": []
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-09 17:46:08</dateadded>
+  <title>Keane</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>c7020c6d-cae9-4db3-92a7-e5c561cbad50</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Keane/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Keane/backdrop.jpg</fanart>
+  </art>
+</artist>

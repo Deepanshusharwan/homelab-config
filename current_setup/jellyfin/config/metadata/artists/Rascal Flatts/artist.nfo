@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:54:54</dateadded>
+  <title>Rascal Flatts</title>
+  <runtime>5</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>6e0ae159-8449-4262-bba5-18ec87fa529f</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Rascal Flatts/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Rascal Flatts/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-09 17:39:02</dateadded>
+  <title>Stromae</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>ab2528d9-719f-4261-8098-21849222a0f2</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Stromae/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Stromae/backdrop.jpg</fanart>
+  </art>
+</artist>

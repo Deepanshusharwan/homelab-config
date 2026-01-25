@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:32</dateadded>
+  <title>WILLOW</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>6bbfc71b-5f18-4e61-82fb-bee0c2a6b5f9</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/WILLOW/folder.jpg</poster>
+    <fanart>/config/metadata/artists/WILLOW/backdrop.jpg</fanart>
+  </art>
+</artist>

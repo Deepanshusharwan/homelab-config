@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>M.I.A.</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>7cf0ea9d-86b9-4dad-ba9e-2355a64899ea</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/M.I.A/folder.jpg</poster>
+    <fanart>/config/metadata/artists/M.I.A/backdrop.jpg</fanart>
+  </art>
+</artist>

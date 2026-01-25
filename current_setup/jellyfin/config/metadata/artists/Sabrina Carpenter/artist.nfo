@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Sabrina Carpenter</title>
+  <runtime>6</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>1882fe91-cdd9-49c9-9956-8e06a3810bd4</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Sabrina Carpenter/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Sabrina Carpenter/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>FIFTY FIFTY</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>5c6b4031-c0e6-468f-ada5-28c33b7d4e0e</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/FIFTY FIFTY/folder.jpg</poster>
+    <fanart>/config/metadata/artists/FIFTY FIFTY/backdrop.jpg</fanart>
+  </art>
+</artist>

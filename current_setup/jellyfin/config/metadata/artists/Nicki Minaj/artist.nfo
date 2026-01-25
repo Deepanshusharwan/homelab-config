@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>Nicki Minaj</title>
+  <runtime>2</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>1036b808-f58c-4a3e-b461-a2c4492ecf1b</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Nicki Minaj/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Nicki Minaj/backdrop.jpg</fanart>
+  </art>
+</artist>

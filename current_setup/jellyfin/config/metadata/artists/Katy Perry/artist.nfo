@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>Katy Perry</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>122d63fc-8671-43e4-9752-34e846d62a9c</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Katy Perry/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Katy Perry/backdrop.jpg</fanart>
+  </art>
+</artist>

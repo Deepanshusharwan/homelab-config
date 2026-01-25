@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:54:54</dateadded>
+  <title>SZA</title>
+  <runtime>14</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>272989c8-5535-492d-a25c-9f58803e027f</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/SZA/folder.jpg</poster>
+    <fanart>/config/metadata/artists/SZA/backdrop.jpg</fanart>
+  </art>
+</artist>

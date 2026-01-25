@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>KNOX</title>
+  <runtime>2</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>0c45bbe7-f4d5-4d84-a382-4c1f132176e1</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/KNOX/folder.jpg</poster>
+    <fanart>/config/metadata/artists/KNOX/backdrop.jpg</fanart>
+  </art>
+</artist>

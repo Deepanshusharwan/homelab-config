@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-07 13:46:01</dateadded>
+  <title>Doja Cat</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>5df62a88-cac9-490a-b62c-c7c88f4020f4</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Doja Cat/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Doja Cat/backdrop.jpg</fanart>
+  </art>
+</artist>

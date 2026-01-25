@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Chappell Roan</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>56a55378-f155-48de-80a5-d80104221267</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Chappell Roan/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Chappell Roan/backdrop.jpg</fanart>
+  </art>
+</artist>

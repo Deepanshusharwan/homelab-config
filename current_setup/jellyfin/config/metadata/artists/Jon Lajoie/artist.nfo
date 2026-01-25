@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-07 13:43:55</dateadded>
+  <title>Jon Lajoie</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>f5408d6d-08cc-4000-b9b8-b9888e94d972</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Jon Lajoie/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Jon Lajoie/backdrop.jpg</fanart>
+  </art>
+</artist>

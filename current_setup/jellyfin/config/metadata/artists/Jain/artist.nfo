@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:37:07</dateadded>
+  <title>Jain</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>0e6dffeb-bda0-4eb1-9567-2ac9306a516d</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Jain/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Jain/backdrop.jpg</fanart>
+  </art>
+</artist>

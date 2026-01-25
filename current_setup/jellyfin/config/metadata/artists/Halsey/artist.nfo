@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-09 17:46:49</dateadded>
+  <title>Halsey</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>3377f3bb-60fc-4403-aea9-7e800612e060</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Halsey/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Halsey/backdrop.jpg</fanart>
+  </art>
+</artist>

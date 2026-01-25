@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:54:54</dateadded>
+  <title>Tom Walker</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>84354abd-2ead-48a3-9690-6627d917b605</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Tom Walker/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Tom Walker/backdrop.jpg</fanart>
+  </art>
+</artist>

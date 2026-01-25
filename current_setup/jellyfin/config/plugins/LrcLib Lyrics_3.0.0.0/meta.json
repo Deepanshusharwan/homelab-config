@@ -1,0 +1,16 @@
+{
+  "category": "Music",
+  "changelog": "- Jellyfin 10.11 support (#25) @crobibero\n- Update plugin name (#12) @thornbill\n- Update PluginConfiguration comment (#10) @scampower3",
+  "description": "",
+  "guid": "d106ebe6-9ca8-4fbc-9cd1-a92a213da9f9",
+  "name": "LrcLib Lyrics",
+  "overview": "Download lyrics from https://lrclib.net/",
+  "owner": "jellyfin",
+  "targetAbi": "10.11.0.0",
+  "timestamp": "2025-10-20T01:26:33.0000000Z",
+  "version": "3.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "",
+  "assemblies": []
+}

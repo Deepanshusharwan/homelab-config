@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>Engelbert Humperdinck</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>62c28bc0-f696-4c50-8e54-5f8e9120bdb8</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Engelbert Humperdinck/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Engelbert Humperdinck/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-09 17:46:08</dateadded>
+  <title>Phantogram</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>dfe78af2-779e-4137-826a-3073a16e3278</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Phantogram/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Phantogram/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:58</dateadded>
+  <title>Lauv</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>c0ef2ba5-a7b7-40ea-bd27-30acccfcac11</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Lauv/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Lauv/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:03</dateadded>
+  <title>Avicii</title>
+  <runtime>6</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Avicii/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Avicii/backdrop.jpg</fanart>
+  </art>
+</artist>

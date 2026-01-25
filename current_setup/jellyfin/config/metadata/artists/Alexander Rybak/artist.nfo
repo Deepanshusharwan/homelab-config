@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:36:40</dateadded>
+  <title>Alexander Rybak</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>1e69316c-14fa-42ba-88f2-06f6743632f7</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Alexander Rybak/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Alexander Rybak/backdrop.jpg</fanart>
+  </art>
+</artist>

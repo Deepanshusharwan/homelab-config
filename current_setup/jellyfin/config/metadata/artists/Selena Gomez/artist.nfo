@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:03</dateadded>
+  <title>Selena Gomez</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>e4bc69e2-a064-4f93-ada1-f7f209cc1cc3</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Selena Gomez/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Selena Gomez/backdrop.jpg</fanart>
+  </art>
+</artist>

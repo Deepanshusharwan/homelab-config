@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 08:37:07</dateadded>
+  <title>Sam Smith</title>
+  <runtime>3</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>5a85c140-dcf9-4dd2-b2c8-aff0471549f3</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Sam Smith/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Sam Smith/backdrop.jpg</fanart>
+  </art>
+</artist>

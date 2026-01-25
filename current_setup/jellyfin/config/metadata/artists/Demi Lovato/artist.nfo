@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2025-11-10 10:22:32</dateadded>
+  <title>Demi Lovato</title>
+  <runtime>4</runtime>
+  <country />
+  <studio />
+  <musicbrainzartistid>faf4cefb-036c-4c88-b93a-5b03dd0a0e6b</musicbrainzartistid>
+  <art>
+    <poster>/config/metadata/artists/Demi Lovato/folder.jpg</poster>
+    <fanart>/config/metadata/artists/Demi Lovato/backdrop.jpg</fanart>
+  </art>
+</artist>
